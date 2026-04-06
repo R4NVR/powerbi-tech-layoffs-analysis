@@ -1,0 +1,10 @@
+## Machine Learning Model
+
+A Random Forest Regressor was trained to predict the number of layoffs based on company attributes such as industry, funding raised, company stage, and country.
+
+Model Performance:
+
+R² Score: 0.53  
+Mean Absolute Error: (your MAE result)
+
+The model indicates that factors such as funding raised and industry type significantly influence layoffs.
