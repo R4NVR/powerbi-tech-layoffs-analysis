@@ -1,4 +1,4 @@
-# 📊 Tech Layoffs Analysis & Prediction System
+#  Tech Layoffs Analysis & Prediction System
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_NOTEBOOK_LINK)
 
@@ -7,21 +7,21 @@ The goal is to explore historical layoff data, visualize trends, and build a pre
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 The tech industry has experienced significant workforce changes in recent years.  
 This project combines **data visualization** and **machine learning** to analyze layoff patterns and generate insights.
 
 The project includes:
 
-- 📊 Interactive **Power BI dashboard**
-- 🤖 **Machine learning model** for layoff prediction
-- 📈 Feature importance analysis
-- 📂 Dataset sourced from Kaggle
+-  Interactive **Power BI dashboard**
+- **Machine learning model** for layoff prediction
+-  Feature importance analysis
+-  Dataset sourced from Kaggle
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
 The Power BI dashboard provides insights such as:
 
@@ -35,7 +35,7 @@ These visualizations help identify patterns in workforce reductions across the g
 
 ---
 
-# 🤖 Machine Learning Model
+#  Machine Learning Model
 
 A **Random Forest Regression model** was developed using **Python and Scikit-learn** to predict the number of layoffs based on company characteristics.
 
@@ -55,7 +55,7 @@ The model explains approximately **53% of the variation in layoffs**, which is r
 
 ---
 
-# 🛠 Tools & Technologies
+#  Tools & Technologies
 
 ### Data Visualization
 - Power BI
@@ -69,4 +69,4 @@ The model explains approximately **53% of the variation in layoffs**, which is r
 
 ---
 
-# 📂 Project Structure
+
