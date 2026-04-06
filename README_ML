@@ -1,0 +1,19 @@
+## Machine Learning Model
+
+A Random Forest regression model was developed using Python and Scikit-learn to predict potential layoffs based on company attributes.
+
+Model Performance
+R² Score: 0.53
+
+Key Features Used
+- Industry
+- Country
+- Funding raised
+- Company stage
+- Layoff percentage
+
+Tools Used
+- Python
+- Scikit-learn
+- Pandas
+- Google Colab
