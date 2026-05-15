@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_NOTEBOOK_LINK)
 
 This project analyzes **global technology sector layoffs** using **Power BI dashboards and machine learning models**.  
-The goal is to explore historical layoff data, visualize trends, and build a predictive model that estimates potential layoffs based on company attributes.
+The goal is to explore layoff data, visualize trends, and build a predictive model that estimates potential layoffs based on company attributes.
 
 ---
 
